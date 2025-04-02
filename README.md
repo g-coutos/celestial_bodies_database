@@ -1,6 +1,6 @@
 # celestial_bodies_database
 
-This is one of the required projects to earn the Relational Database course from [freeCodeCamp]([url](https://www.freecodecamp.org/learn/relational-database)).
+This is one of the required projects to earn the Relational Database course from [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database).
 
 The are the project's requirements:
 
