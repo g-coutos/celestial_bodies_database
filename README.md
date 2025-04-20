@@ -2,7 +2,7 @@
 
 This is one of the required projects to earn the Relational Database course from [freeCodeCamp](https://www.freecodecamp.org/learn/relational-database).
 
-The are the project's requirements:
+These are the project's requirements:
 
 - You should create a database named `universe`
 - Be sure to connect to your database with `\c universe`. Then, you should add tables named `galaxy`, `star`, `planet`, and `moon`
